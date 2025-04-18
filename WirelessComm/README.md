@@ -74,32 +74,25 @@ pip install numpy matplotlib scipy
 ### 📷 Example Visual Outputs
 
 **1. Subcarrier Allocation Map**
-
-![Subcarrier Allocation](./WirelessComm/16qam_carriers.png)
+![Subcarrier Allocation](./16qam_carriers.png)
 
 **2. Transmit Constellation**
-
-![16-QAM Constellation Map](./WirelessComm/16qam_constellation_map.png)
+![16-QAM Constellation Map](./16qam_constellation_map.png)
 
 **3. Channel Frequency Response**
-
-![Channel Frequency Response](./WirelessComm/16qam_channel_response.png)
+![Channel Frequency Response](./16qam_channel_response.png)
 
 **4. Time-domain Signal Transmission**
-
-![Time-domain Signals](./WirelessComm/16qam_signals.png)
+![Time-domain Signals](./16qam_signals.png)
 
 **5. Channel Estimation**
-
-![Channel Estimation](./WirelessComm/16qam_channel_estimation.png)
+![Channel Estimation](./16qam_channel_estimation.png)
 
 **6. Received Constellation**
-
-![Received Constellation](./WirelessComm/16qam_received_constellation.png)
+![Received Constellation](./16qam_received_constellation.png)
 
 **7. Decoded Constellation Points**
-
-![Constellation Decoding](./WirelessComm/16qam_constellation_decoding.png)
+![Constellation Decoding](./16qam_constellation_decoding.png)
 
 ## 📚 Learning Outcomes
 
